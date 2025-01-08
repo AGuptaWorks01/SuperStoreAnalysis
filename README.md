@@ -1,4 +1,4 @@
-Project Title: Superstore Sales and Profit Analysis
+## Project Title: Superstore Sales and Profit Analysis
 Technologies Used: Python, Pandas, Plotly, Jupyter Notebook, CSV
 
 Project Overview
