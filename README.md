@@ -1,5 +1,5 @@
 ## Project Title: Superstore Sales and Profit Analysis
-Technologies Used: Python, Pandas, Plotly, Jupyter Notebook, CSV
+# Technologies Used: Python, Pandas, Plotly, Jupyter Notebook, CSV
 
 Project Overview
 This project focuses on performing sales and profit analysis using the Superstore dataset. We analyze different business metrics such as monthly sales, profit distribution by category, and sales & profit by customer segments. Visualizations are generated using Plotly for interactive charts. This allows for better insights into how sales and profit vary across categories, customer segments, and time periods.
